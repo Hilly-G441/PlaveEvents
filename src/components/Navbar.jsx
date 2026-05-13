@@ -33,7 +33,7 @@ const Navbar = () => {
       <>
         {/* Username */}
         
-          <span className="nav-link text-success fw-bold">
+          <span className="nav-link text-dark fw-bold">
             👋 {user.username}
           </span>
 
